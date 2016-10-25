@@ -11,6 +11,9 @@ public class ReverseLinkList{
 		}
 	}
 
+	/*
+	* Generic function to print argument str of any type
+	*/
 	static <T> void print(T str){
 		System.out.print(""+str);
 	}
