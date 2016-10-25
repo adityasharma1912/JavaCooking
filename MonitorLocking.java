@@ -1,5 +1,3 @@
-package leetCode;
-
 //Simple Ping Pong program using locking inside threads.
 
 public class MonitorLocking {
